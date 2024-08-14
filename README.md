@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me - gyamlanidevesh@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Life is Small, enjoy every moment.
 
 <!---
 deveshgyamlani/deveshgyamlani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
